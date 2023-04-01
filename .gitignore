@@ -12,7 +12,6 @@
 *.sublime-project
 *.sublime-workspace
 _ide_helper.php
-.composer.lock
 .DS_Store
 .env
 .env.backup
@@ -21,6 +20,7 @@ _ide_helper.php
 .phpunit.result.cache
 .phpstorm.meta.php
 .project
+composer.lock
 composer.phar
 coverage.xml
 docker-compose.override.yml
